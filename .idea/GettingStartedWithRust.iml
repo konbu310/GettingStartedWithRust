@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="Go" enabled="true" />
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
-    <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ch06/leap-year/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch06/leap-year/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch06/leap-year/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ch06/leap-year/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ch07/toy-vec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch07/toy-vec/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch07/toy-vec/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ch07/toy-vec/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/playground/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/playground/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/playground/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/playground/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ch09/parser/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch09/parser/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch09/parser/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ch09/parser/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/ch06/leap-year/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch07/toy-vec/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch09/parser/target" />
+      <excludeFolder url="file://$MODULE_DIR$/playground/target" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
